@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on GitHub.
 - 🤔 I’m looking for help with Google、Official Dirctory.
 - 💬 Ask me about some questions about programmer.
-- 📫 How to reach me: jadeface.scholar@gemail.com
+- 📫 How to reach me: jadeface.scholar@gmail.com
 
 
 You can follow my public account and make progress with me！
