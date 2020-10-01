@@ -15,9 +15,9 @@
 #### My profile
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=bigbigDreamer&show_icons=true" alt="bigbigDreamer"  />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=bigbigDreamer&show_icons=true" alt="bigbigDreamer" width="400px" height="150" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigbigDreamer&layout=compact&langs_count=8" alt="bigbigDreamer" height="195px" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigbigDreamer&layout=compact&langs_count=8" alt="bigbigDreamer" height="150px" />
 </p>
 
 #### My Skills
