@@ -9,6 +9,7 @@
 
 #### My Follows
 ![alt](https://img.shields.io/github/followers/bigbigDreamer?style=social)
+![alt](https://img.shields.io/github/stars/bigbigDreamer?style=social)
 
 #### BIO 
 
