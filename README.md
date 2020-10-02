@@ -1,5 +1,5 @@
-### Hi there 👋
-- 🔭 I’m currently working on YQN.
+### Hi there，I'm Eric 👋
+- 🔭 I’m currently working on Github.
 - 🌱 I’m currently learning TypeScript、JavaScript、Node、MongoDB、WebPack.
 - 👯 I’m looking to collaborate on GitHub.
 - 🤔 I’m looking for help with Google、Official Dirctory.
@@ -9,9 +9,10 @@
 ![alt](https://img.shields.io/github/commit-activity/y/bigbigDreamer/FCC_Record?label=FCC_Record%20commit%20activities)
 ![alt](https://img.shields.io/github/commit-activity/y/bigbigDreamer/CommonProjectConfigurationFiles?label=CommonProjectConfigurationFiles%20commit%20activities)
 ![alt](https://img.shields.io/github/commit-activity/y/bigbigDreamer/Ali-OSS-Upload?label=Ali-OSS-Upload%20commit%20activities)
-#### My Follows
+#### My Info
 ![alt](https://img.shields.io/github/followers/bigbigDreamer?style=social)
 ![alt](https://img.shields.io/github/stars/bigbigDreamer?style=social)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=bigbigDreamer)
 #### My profile
 
 <p>
