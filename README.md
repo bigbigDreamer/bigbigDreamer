@@ -10,6 +10,17 @@
 ![alt](https://img.shields.io/github/commit-activity/y/bigbigDreamer/FCC_Record?label=FCC_Record%20commit%20activities)
 ![alt](https://img.shields.io/github/commit-activity/y/bigbigDreamer/CommonProjectConfigurationFiles?label=CommonProjectConfigurationFiles%20commit%20activities)
 ![alt](https://img.shields.io/github/commit-activity/y/bigbigDreamer/Ali-OSS-Upload?label=Ali-OSS-Upload%20commit%20activities)
+
+#### Recently Reading
+
+[TypeScript 入门教程](https://ts.xcatliu.com/)
+
+[深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/project/compilationContext.html#tsconfig-json)
+
+[学习正则表达式的简单方法](https://github.com/cdoco/learn-regex-zh)
+
+[React技术揭秘](https://react.iamkasong.com/#%E5%AF%BC%E5%AD%A6%E8%A7%86%E9%A2%91)
+
 #### My Info
 ![alt](https://img.shields.io/github/followers/bigbigDreamer?style=social)
 ![alt](https://img.shields.io/github/stars/bigbigDreamer?style=social)
