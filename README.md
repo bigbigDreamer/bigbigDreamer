@@ -1,8 +1,8 @@
 ### Advance Declaration🇨🇳
 
-<p>我是一名中华人民共和国普通公民，我是中国人，我为此而感到骄傲！祖国万岁！</p>
+<p>一名中华人民共和国普通公民，我为此而感到骄傲！祖国万岁！</p>
 
-<p>I am an ordinary citizen of the People's Republic of China, I am Chinese, and I am proud of it! Long live the motherland!</p>
+<p>I am an ordinary citizen of the People's Republic of China, I am proud of it! Long live the motherland!</p>
 
 ### Hi there，I'm Eric 👋
 
