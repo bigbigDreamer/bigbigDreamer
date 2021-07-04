@@ -1,6 +1,6 @@
 ### Advance Declaration
 
-![](https://bigdreamerblog.oss-cn-beijing.aliyuncs.com/blog/e851b749-6998-45bd-8f4b-3a8badd0e7d7.png?x-oss-process=style/HANDLE_IMAGE)
+![](https://bigdreamerblog.oss-cn-beijing.aliyuncs.com/blog/Snipaste_2021-07-04_10-29-31.png?x-oss-process=style/HANDLE_IMAGE)
 
 <p>我是一名中华人民共和国普通公民，我是中国人，我为此而感到骄傲！祖国万岁！</p>
 
