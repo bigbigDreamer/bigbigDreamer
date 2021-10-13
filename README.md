@@ -27,6 +27,10 @@
 
 [React技术揭秘](https://react.iamkasong.com/#%E5%AF%BC%E5%AD%A6%E8%A7%86%E9%A2%91)
 
+[图解React](https://github.com/7kms/react-illustration-series)
+
+[All of fronted](https://github.com/KieSun/all-of-frontend)
+
 #### Free World
 
 [PAC](https://github.com/Alvin9999/new-pac/wiki)
