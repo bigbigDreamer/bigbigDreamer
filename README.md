@@ -12,6 +12,13 @@
 
 往事随风，承蒙厚爱，山高路远，更高处见。
 
+## 也许
+
+
+**莫笑少年江湖梦，谁不少年梦江湖。**
+
+**待吾追得江湖梦，携君隔岸笑江湖。**
+
 #### My Activities :wrench:
 ![alt](https://img.shields.io/github/commit-activity/y/bigbigDreamer/FCC_Record?label=FCC_Record%20commit%20activities)
 ![alt](https://img.shields.io/github/commit-activity/y/bigbigDreamer/CommonProjectConfigurationFiles?label=CommonProjectConfigurationFiles%20commit%20activities)
