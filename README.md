@@ -1,23 +1,6 @@
-### Advance Declaration🇨🇳
-
-<p>一名中华人民共和国普通公民，我为此而感到骄傲！祖国万岁！</p>
-
-<p>I am an ordinary citizen of the People's Republic of China, I am proud of it! Long live the motherland!</p>
-
 ### Hi there，I'm Eric 👋
 
 数学中最遗憾的事情-----无解。
-
-我从风中归来，只为你惊鸿一瞥。
-
-往事随风，承蒙厚爱，山高路远，更高处见。
-
-## 也许
-
-
-**莫笑少年江湖梦，谁不少年梦江湖。**
-
-**待吾追得江湖梦，携君隔岸笑江湖。**
 
 #### My Activities :wrench:
 ![alt](https://img.shields.io/github/commit-activity/y/bigbigDreamer/FCC_Record?label=FCC_Record%20commit%20activities)
