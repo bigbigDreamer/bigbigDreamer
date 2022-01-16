@@ -32,8 +32,12 @@
 #### My profile :page_facing_up:
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=bigbigDreamer&show_icons=true" alt="bigbigDreamer" width="400px" height="150" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=bigbigDreamer&show_icons=true&theme=dark" alt="bigbigDreamer" width="400px" height="150" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigbigDreamer&layout=compact&langs_count=8" alt="bigbigDreamer" height="150px" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigbigDreamer&layout=compact&langs_count=8&theme=dark" alt="bigbigDreamer" height="150px" />
 </p>
+
+#### Pop Repo
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=myNameIsDu&repo=aktiv&theme=dark)](https://githvub.com/anuraghazra/github-readme-stats)
 
