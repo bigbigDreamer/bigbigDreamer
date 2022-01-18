@@ -1,6 +1,10 @@
 ### Hi there，I'm Eric 👋
 
-数学中最遗憾的事情-----无解。
+<div>
+<a>『 数学中最遗憾的事情-----无解。』</a>
+  <a> | </a>
+  <a>『 信命吗？-----不信！』</a>
+</div>
 
 <img width="1380" alt="image" src="https://user-images.githubusercontent.com/39019913/149952394-9810caa3-f57a-4169-8d71-d3fd7b6876da.png">
 
