@@ -23,6 +23,8 @@
     <a href="https://github.com/7kms/react-illustration-series">图解React</a>
       <a> | </a>
       <a href="https://github.com/KieSun/all-of-frontend">All of fronted</a>
+  <a> | </a>
+  <a href="https://course.rs/basic/variable.html">Rust圣经</a>
 </div>
 
 #### My Info :mortar_board:
