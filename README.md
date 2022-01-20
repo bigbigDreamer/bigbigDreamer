@@ -42,4 +42,5 @@
 #### Pop Repo
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=myNameIsDu&repo=aktiv&theme=dark)](https://githvub.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sunface&repo=rust-course&theme=dark)](https://githvub.com/anuraghazra/github-readme-stats)
 
