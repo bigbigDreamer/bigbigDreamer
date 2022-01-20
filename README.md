@@ -41,6 +41,8 @@
 
 #### Pop Repo
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=myNameIsDu&repo=aktiv&theme=dark)](https://github.com/myNameIsDu/aktiv)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sunface&repo=rust-course&theme=dark)](https://github.com/sunface/rust-course)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bvaughn&repo=progress-estimator&theme=dark)](https://github.com/bvaughn/progress-estimator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=myNameIsDu&repo=aktiv&theme=dark)](https://github.com/myNameIsDu/aktiv)
+
 
