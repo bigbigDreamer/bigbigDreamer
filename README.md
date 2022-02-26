@@ -5,7 +5,7 @@
 ![alt](https://img.shields.io/github/stars/bigbigDreamer?style=social)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=bigbigDreamer)
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="275" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="230" />
 
 ###  🧐 More About Me:
 
@@ -15,7 +15,7 @@
 
 - 📝 Write articles on [MyBlog](www.bigdreamer.cc)
 
-- 💬 Ask me about **React、Javascript、Typescript、Unit Test**
+- 💬 Ask me about **React、Unit Test**
 
 - 📫 Reach me **jadeface.scholar@gmail.com**
 
