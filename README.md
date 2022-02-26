@@ -5,7 +5,7 @@
 ![alt](https://img.shields.io/github/stars/bigbigDreamer?style=social)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=bigbigDreamer)
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="215" />
+<img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/bigbigDreamer/pic-bed@main/uPic/code.gif" width="500" height="215" />
 
 ###  🧐 More About Me:
 
