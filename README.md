@@ -33,6 +33,6 @@
 #### Contribution Pop Repo
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=myNameIsDu&repo=aktiv&theme=dark)](https://github.com/myNameIsDu/aktiv)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bigbigDreamer&repo=fuck-awesome&)](https://github.com/bigbigDreamer/fuck-awesome)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bigbigDreamer&repo=fuck-awesome&theme=dark)](https://github.com/bigbigDreamer/fuck-awesome)
 
 
