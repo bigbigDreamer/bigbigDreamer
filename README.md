@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm eric(书生)</h1>
-<h3 align="center">A passionate frontend developer from China,love code,love open source, and like to delve into some fun things.</h3>
+<p align="center">A passionate frontend developer from China,love code,love open source, and like to delve into some fun things.</p>
 
 ![alt](https://img.shields.io/github/followers/bigbigDreamer?style=social)
 ![alt](https://img.shields.io/github/stars/bigbigDreamer?style=social)
