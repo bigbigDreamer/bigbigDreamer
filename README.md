@@ -23,5 +23,4 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=myNameIsDu&repo=aktiv&theme=dark)](https://github.com/myNameIsDu/aktiv)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sindresorhus&repo=is&theme=dark)](https://github.com/sindresorhus/is)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bigbigDreamer&repo=hand-write-awesome&theme=dark)](https://github.com/bigbigDreamer/hand-write-awesome)
 
